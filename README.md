@@ -1,14 +1,14 @@
-# Google Engineering Practices Documentation
+# Documentação de Práticas de Engenharia da Google
 
-Google has many generalized engineering practices that cover all languages and
-all projects. These documents represent our collective experience of various
-best practices that we have developed over time. It is possible that open source
-projects or other organizations would benefit from this knowledge, so we work to
-make it available publicly when possible.
+A Google tem muitas práticas gerais de engenharia que cobrem todas as linguagens
+e todos os projetos. Estes documentos representam nossa experiência coletiva de
+em grande número de melhores práticas que desenvolvemos no decorrer do tempo. É
+possível que projetos de Código Aberto ou outras organizações se beneficiem deste
+conhecimento, então trabamos para torná-lo disponível publicamente quando possível.
 
-Currently this contains the following documents:
+Atualmente ela contém os seguintes documentos:
 
-*   [Google's Code Review Guidelines](review/index.md), which are actually two
+*   [Instruções de Code Review do Google](review/index.md), which are actually two
     separate sets of documents:
     *   [The Code Reviewer's Guide](review/reviewer/index.md)
     *   [The Change Author's Guide](review/developer/index.md)
