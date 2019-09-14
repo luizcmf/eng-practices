@@ -11,7 +11,7 @@ Atualmente ela contém os seguintes documentos:
 *   [Instruções de Code Review do Google](review/index.md), que na verdade são dois
     conjuntos separados de documentos:
     *   [O Guia do Revisor de Código](review/reviewer/index.md)
-    *   [O Guia do Autor que muda seu código] (review/developer/index.md)
+    *   [O Guia do Autor que muda seu código](review/developer/index.md)
 
 ## Terminologia
 
