@@ -8,26 +8,25 @@ conhecimento, então trabamos para torná-lo disponível publicamente quando pos
 
 Atualmente ela contém os seguintes documentos:
 
-*   [Instruções de Code Review do Google](review/index.md), which are actually two
-    separate sets of documents:
-    *   [The Code Reviewer's Guide](review/reviewer/index.md)
-    *   [The Change Author's Guide](review/developer/index.md)
+*   [Instruções de Code Review do Google](review/index.md), que na verdade são dois
+    conjuntos separados de documentos:
+    *   [O Guia do Revisor de Código](review/reviewer/index.md)
+    *   [O Guia do Autor que muda seu código (review/developer/index.md)
 
-## Terminology
+## Terminologia
 
-There is some Google-internal terminology used in some of these documents, which
-we clarify here for external readers:
+Há algumas terminologias internas do Google usadas em alguns destes documentos que
+nós esclarecemos para os leitores externos:
 
-*   **CL**: Stands for "changelist," which means one self-contained change that
-    has been submitted to version control or which is undergoing code review.
-    Other organizations often call this a "change" or a "patch."
-*   **LGTM**: Means "Looks Good to Me." It is what a code reviewer says when
-    approving a CL.
+*   **CL**: quer dizer "changelist", que significa uma mudança autocontida que foi
+    submetida para o controle de versão ou que está em Code Review.
+    Outras organizações frequentemente chamam isso de "mudança" ou "patch".
+*   **LGTM**: significa "Looks Good to Me" ("Parece bom para mim"). É o jeito do
+    revisor de código dizer que aprova uma CL.
 
-## License
+## Licença
 
-The documents in this project are licensed under the CC-By 3.0 License, which
-encourages you to share these documents. See
-https://creativecommons.org/licenses/by/3.0/ for more details.
+Os documentos neste projeto são licenciados sob a Licença CC-By 3.0, que o encoraja 
+a compartilhá-los. Veja https://creativecommons.org/licenses/by/3.0/ para mais detalhes.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
